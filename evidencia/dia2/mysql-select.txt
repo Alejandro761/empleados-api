@@ -1,0 +1,3 @@
+id	nombre	email	puesto	salario	fecha_ingreso
+1	Ana Sofía	ana.lopez@empresa.com	Desarrolladora Backend	35000.00	2024-03-15
+5	Luis	luis.martinez@empresa.com	Analista de Datos	28500.50	2023-08-01
