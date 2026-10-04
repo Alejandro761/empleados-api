@@ -1,6 +1,6 @@
 # Empleados API
 
-API REST para administrar empleados, construida paso a paso en la Academia Java CDMX
+API REST para administrar empleados, construida paso a paso en la Academia Java CDMX y cuestionarios de los capítulos 1, 2, 3 y 4.
 (Semana 3, del 24 al 26 de septiembre de 2026).
 
 **Alumno:** Alejandro Elías Castañeda Ibarra
