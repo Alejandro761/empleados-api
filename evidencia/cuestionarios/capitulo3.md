@@ -1,6 +1,6 @@
 # Cuestionario del libro
 
-## Capitulo 2
+## Capitulo 3
 
 ### 1. Which of the following data types can be used in a switch expression? (Choose all that apply.)
 * A. enum
